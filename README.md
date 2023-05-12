@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer | Data Science | UI/UX
+Developer | Sofware Engineer | UI/UX
 
 
 # 💻 Tech Stack:
