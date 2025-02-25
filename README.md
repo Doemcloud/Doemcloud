@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miho</h1>
-<h3 align="center"># 💫 About Me: Developer | Sofware Engineer | UI/UX</h3>
+<h3 align="center">💫 About Me: Developer | Sofware Engineer | UI/UX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doemcloud&label=Profile%20views&color=0e75b6&style=flat" alt="doemcloud" /> </p>
 
